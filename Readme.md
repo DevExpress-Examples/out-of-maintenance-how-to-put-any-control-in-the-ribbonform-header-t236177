@@ -1,9 +1,4 @@
 # How to put any control in the RibbonForm header
-
-
-<p>This example demonstrates how to put any control in the <strong>RibbonForm</strong> header next to the system buttons. <br><br><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-put-any-control-in-the-ribbonform-header-t236177/14.2.9+/media/9a22a0dc-abbb-11e5-80bf-00155d62480c.png"></p>
-<p>To use this solution in your application, execute the following steps:<br><br>1. Drop the <strong>RibbonHeaderControlHelper </strong>component onto the target form.<br>2. Assign a <strong>RibbonControl</strong> to this helper.<br>3. Assign a required header control to the helper's <strong>HeaderControl </strong>property. </p>
-
-<br/>
+<p>This example is obsolete. Starting with version 18.2, we introduced a new <strong>RibbonControl.CaptionBarItemLinks</strong> property which provides access to bar item links displayed in the RibbonForm's caption area. <br><br> Please refer to <a href="https://documentation.devexpress.com/WindowsForms/DevExpress.XtraBars.Ribbon.RibbonControl.CaptionBarItemLinks.property">RibbonControl.CaptionBarItemLinks</a> to learn more.</b></p>
 
 
